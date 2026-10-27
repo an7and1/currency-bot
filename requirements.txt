@@ -1,0 +1,6 @@
+vkbottle>=4.5,<5.0
+SQLAlchemy[asyncio]>=2.0,<2.1
+aiosqlite>=0.20
+aiohttp>=3.9
+python-dotenv>=1.0
+truststore>=0.10.0
